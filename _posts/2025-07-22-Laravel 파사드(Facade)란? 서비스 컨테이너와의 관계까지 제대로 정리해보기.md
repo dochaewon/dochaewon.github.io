@@ -1,6 +1,6 @@
 ---
 title: "Laravel 파사드(Facade)란? 서비스 컨테이너와의 관계까지 제대로 정리해보기"
-date: 2025-07-23
+date: 2025-07-22
 tags: [Laravel, Facade, LaravelFacade, ServiceContainer, PHP]
 ---
 
