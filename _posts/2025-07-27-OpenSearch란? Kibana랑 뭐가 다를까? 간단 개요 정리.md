@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenSearch란? Kibana랑 뭐가 다를까? 간단 개요 정리"
-date: 2024-07-29
+date: 2025-07-27
 categories: [opensearch, devtools]
 tags: [opensearch, kibana, 검색엔진, 대시보드, 실무정리]
 ---

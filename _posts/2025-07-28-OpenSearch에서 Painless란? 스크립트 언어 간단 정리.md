@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenSearch에서 Painless란? 스크립트 언어 간단 정리"
-date: 2024-07-29
+date: 2025-07-28
 categories: [opensearch, scripting]
 tags: [painless, opensearch, elasticsearch, 스크립트, 검색엔진, 실무팁]
 ---

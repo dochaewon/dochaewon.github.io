@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "서버에서 외부 URL 호출되는지 확인하는 3가지 방법 (curl, ss, tcpdump)"
-date: 2024-07-29
+date: 2025-07-24
 categories: [linux, troubleshooting]
 tags: [curl, tcpdump, ss, 서버네트워크, 오픈서치, 실무팁]
 ---

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenAI temperature 값 실험해보기 – 정답형 vs 창의형 응답 비교"
-date: 2024-07-29
+date: 2025-07-25
 categories: [openai, prompt-engineering]
 tags: [openai, gpt, temperature, 프롬프트, 실험기, ai, 차량설명, 자동차AI]
 ---

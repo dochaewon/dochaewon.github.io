@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "OpenSearch 쿼리 실전 정리 – 자주 쓰는 기본 명령 모음"
-date: 2024-07-29
+date: 2025-07-26
 categories: [opensearch, search]
 tags: [opensearch, 쿼리, 실무팁, 검색엔진, 데이터삭제, kibana]
 ---
