@@ -2,6 +2,8 @@
 layout: page
 title: About
 permalink: /about/
+icon: fas fa-info-circle
+order: 4
 ---
 
 이 블로그는 제가 실무에서 직접 겪은 문제, 고민, 궁금증을 바탕으로 정리한 기록입니다.  
