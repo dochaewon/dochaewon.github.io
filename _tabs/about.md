@@ -1,8 +1,19 @@
 ---
-# the default layout is 'page'
-icon: fas fa-info-circle
-order: 4
+layout: page
+title: About
+permalink: /about/
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+이 블로그는 제가 실무에서 직접 겪은 문제, 고민, 궁금증을 바탕으로 정리한 기록입니다.  
+대부분의 포스팅은 제가 직접 던진 질문을 AI와 함께 정리한 결과물이며,  
+실제 사용 경험과 지식 기반의 탐구 과정입니다.
+
+> “과정을 기록합니다.”
+
+---
+
+- 주로 사용하는 기술 스택: OpenSearch, FastAPI, NestJS, MySQL, AWS 등
+- 글 감성: 실무 중심, 삽질 기록, 실험기 스타일
+- 생성형 AI는 **생산성 도구**로 활용하며, **내용은 내 질문과 검증을 기반으로 작성**합니다.
+
+궁금한 점이나 피드백은 언제든 환영합니다!
