@@ -1,0 +1,45 @@
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://localhost:4000/</id>
+  <title>winnie's blog</title>
+  <subtitle>A minimal, responsive and feature-rich Jekyll theme for technical writing.</subtitle>
+  <updated>2025-07-21T16:57:23+09:00</updated>
+  <author>
+    <name>도채원</name>
+    <uri>http://localhost:4000/</uri>
+  </author>
+  <link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml"/>
+  <link rel="alternate" type="text/html" hreflang="ko"
+    href="http://localhost:4000/"/>
+  <generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator>
+  <rights> © 2025 도채원 </rights>
+  <icon>/assets/img/favicons/favicon.ico</icon>
+  <logo>/assets/img/favicons/favicon-96x96.png</logo>
+
+
+  
+  <entry>
+    <title>깃 커밋메세지 자동화 도구 ai git narrator 사용법 &amp; 세팅</title>
+    <link href="http://localhost:4000/posts/%EA%B9%83-%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%84%B8%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC-AI-Git-Narrator-%EC%82%AC%EC%9A%A9%EB%B2%95-&amp;-%EC%84%B8%ED%8C%85/" rel="alternate" type="text/html" title="깃 커밋메세지 자동화 도구 ai git narrator 사용법 &amp;amp; 세팅" />
+    <published>2025-07-21T00:00:00+09:00</published>
+  
+    <updated>2025-07-21T00:00:00+09:00</updated>
+  
+    <id>http://localhost:4000/posts/%EA%B9%83-%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%84%B8%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC-AI-Git-Narrator-%EC%82%AC%EC%9A%A9%EB%B2%95-&amp;-%EC%84%B8%ED%8C%85/</id>
+    <content type="text/html" src="http://localhost:4000/posts/%EA%B9%83-%EC%BB%A4%EB%B0%8B%EB%A9%94%EC%84%B8%EC%A7%80-%EC%9E%90%EB%8F%99%ED%99%94-%EB%8F%84%EA%B5%AC-AI-Git-Narrator-%EC%82%AC%EC%9A%A9%EB%B2%95-&amp;-%EC%84%B8%ED%8C%85/" />
+    <author>
+      <name>도채원</name>
+    </author>
+
+  
+    
+  
+
+  <summary>AI Git Narrator 사용법 &amp;amp;amp; 세팅 정리 (macOS 전용 Git 커밋 메시지 자동 생성기)  Git 커밋 메시지 작성, 아직도 직접 고민하시나요? OpenAI, Gemini, Ollama 등 다양한 AI 모델을 활용해 커밋 메시지와 PR 설명을 자동으로 생성해주는 AI Git Narrator 도구를 macOS에서 직접 설치해 사용해봤습니다. 오늘은 설치부터 사용법까지 꼼꼼히 정리해볼게요.    ✅ AI Git Narrator란?     AI Git Narrator는 macOS 전용 커맨드라인 도구로, GPT, Gemini, Ollama 등의 LLM을 활용해 Git 커밋 메시지 및 PR 설명을 자동 생성합니다.      지원 모델: OpenAI GPT, Google Gemini, Oll...</summary>
+
+  </entry>
+
+</feed>
+
+
