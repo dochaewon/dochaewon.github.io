@@ -14,7 +14,7 @@ order: 4
 
 ---
 
-- 주로 사용하는 기술 스택: OpenSearch, FastAPI, NestJS, MySQL, AWS 등
+- 주로 사용하는 기술 스택: Laravel, OpenSearch, FastAPI, NestJS, MySQL, AWS 등
 - 글 감성: 실무 중심, 삽질 기록, 실험기 스타일
 - 생성형 AI는 **생산성 도구**로 활용하며, **내용은 내 질문과 검증을 기반으로 작성**합니다.
 
