@@ -6,7 +6,7 @@ tags: [laravel, queue, supervisor, artisan, 큐관리, 병렬처리]
 ---
 
 운영 중인 Laravel 프로젝트에서 큐를 통해 비동기 작업을 처리하고 있다.  
-그 중 특정 큐(`notice_inventory`)는 이미 Supervisor로 관리되고 있었고,  
+그 중 특정 큐(`notice_inventory` )는 이미 Supervisor로 관리되고 있었고,  
 새롭게 `user_push_log`라는 큐도 병렬로 실행할 필요가 생겼다.
 
 이 글에서는 **Supervisor로 Laravel 큐를 병렬로 다중 운영하는 구성**을 실전 예제로 정리한다.
