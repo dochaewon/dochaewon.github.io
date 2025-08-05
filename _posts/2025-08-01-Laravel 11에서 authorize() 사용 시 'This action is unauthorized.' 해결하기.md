@@ -1,8 +1,8 @@
 ---
 title: "Laravel 11에서 authorize() 사용 시 'This action is unauthorized.' 해결하기"
 date: 2025-08-01
-categories: \[Laravel, PHP]
-tags: \[laravel11, authorize, policy, 예외처리, 권한]
+categories: [Laravel, PHP]
+tags: [laravel11, authorize, policy, 예외처리, 권한]
 ---
 
 ## 🧠 Policy란 무엇인가요?

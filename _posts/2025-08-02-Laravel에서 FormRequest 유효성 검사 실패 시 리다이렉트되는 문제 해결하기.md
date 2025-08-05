@@ -1,8 +1,8 @@
 ---
 title: "Laravel에서 FormRequest 유효성 검사 실패 시 '/'로 리다이렉트되는 문제 해결하기"
 date: 2025-08-04
-categories: \[Laravel, PHP]
-tags: \[laravel, validation, formrequest, api, 예외처리]
+categories: [Laravel, PHP]
+tags: [laravel, validation, formrequest, api, 예외처리]
 ---
 
 ## 🚫 문제 상황: JSON 응답 대신 '/'로 리다이렉트됨

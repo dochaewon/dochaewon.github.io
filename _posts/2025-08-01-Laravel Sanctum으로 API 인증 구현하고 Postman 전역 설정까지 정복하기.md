@@ -1,8 +1,8 @@
 ---
 title: "Laravel Sanctum으로 API 인증 구현하고 Postman 전역 설정까지 정복하기"
 date: 2025-08-04
-categories: \[Laravel, PHP]
-tags: \[laravel, sanctum, postman, api, 인증]
+categories: [Laravel, PHP]
+tags: [laravel, sanctum, postman, api, 인증]
 ---
 
 ## 🔰 Sanctum은 무엇인가요?
