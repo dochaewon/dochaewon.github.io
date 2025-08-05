@@ -108,7 +108,7 @@ public function update(User $user, Post $post): bool
 * `$this->authorize(...)` → 실패 시 `AuthorizationException` 발생
 * `Gate::allows(...)` 또는 `$user->can(...)` → `true/false` 반환
 
-API라면 `authorize()`의 실패 응답을 예쁘게 처리하기 위해 커스텀 핸들러도 필요할 수 있습니다. (→ 관련 글: [예외 핸들링 커스터마이징](./laravel11-exception-handler))
+API라면 `authorize()`의 실패 응답을 예쁘게 처리하기 위해 커스텀 핸들러도 필요할 수 있습니다.
 
 ---
 
